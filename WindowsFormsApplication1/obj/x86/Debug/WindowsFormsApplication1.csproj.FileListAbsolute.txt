@@ -1,0 +1,8 @@
+C:\github projects\byte2\byte2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\github projects\byte2\byte2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\github projects\byte2\byte2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\github projects\byte2\byte2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\github projects\byte2\byte2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\github projects\byte2\byte2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\github projects\byte2\byte2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\github projects\byte2\byte2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
